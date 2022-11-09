@@ -6,6 +6,22 @@
 // Description:
 // Title: anxiousDragon
 
+---
+
+// Instructions:
+// Reassure the Anxious Dragon that he can catch the Absent-Minded Cat.
+// You can answer questions, or try clicking around.
+
+---
+
+// Notes and Credits:
+
+// All the work was my own, except that I used a background,
+// two sprites and graphics from Scratch's open library
+// (although with a different colored cat).
+
+---
+
 // This project, which I originally began either towards the end of 2020
 // or the beginning of 2021, is rough around the edges, but I've tested it
 // quite a lot, and worked out a number of the kinks.
