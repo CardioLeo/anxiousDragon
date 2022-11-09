@@ -12,6 +12,10 @@
 // Reassure the Anxious Dragon that he can catch the Absent-Minded Cat.
 // You can answer questions, or try clicking around.
 
+// Link: https://scratch.mit.edu/projects/758655142
+
+// Embed html: <iframe src="https://scratch.mit.edu/projects/758655142/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 ---
 
 // Notes and Credits:
