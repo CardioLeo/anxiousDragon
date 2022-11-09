@@ -32,8 +32,9 @@
 
 // This project has 4 scripts, two which begin when the green flag is
 // pressed, and two (one per sprite) which begin if you press on each
-// sprite. There are three possible outcomes, found by answering the
-// questions asked by the sprites or clicking on either of the two sprites.
+// sprite. There are at least three possible outcomes, found by
+// answering the questions asked by the sprites or clicking on either
+// of the two sprites.
 
 // November 2022 is the day when I finally got around to making both
 // scripts play out much closer to the way I wanted them to to begin with.
