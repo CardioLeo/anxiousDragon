@@ -36,5 +36,13 @@
 // answering the questions asked by the sprites or clicking on either
 // of the two sprites.
 
+// First, the Absent-Minded Cat may escape before the Anxious Dragon
+// can be reasured enough to catch him.
+
+// Second, the Anxious Dragon may catch the Absent-Minded Cat before
+// the cat can realize what's going on around him.
+
+// Third, you may just discover a way to help the cat to narrowly escape.
+
 // November 2022 is the day when I finally got around to making both
 // scripts play out much closer to the way I wanted them to to begin with.
